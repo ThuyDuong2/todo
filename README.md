@@ -49,4 +49,4 @@ Website: https://gitforwindows.org/
  4. Delete a Task: If a task is no longer relevant, click on the "Delete" button to remove it from the list.
 
 ### Walkthrough Video
-<img src="https://i.imgur.com/VfxduUR.gif" title="video Walkthrough" alt="To-do list"
+<img src="https://i.imgur.com/VfxduUR.gif" title="video Walkthrough" alt="To-do list" />
