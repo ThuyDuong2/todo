@@ -47,3 +47,6 @@ Website: https://gitforwindows.org/
  3. Mark as Complete/Incomplete: When a task is completed, use the " Mark as Done" button to mark it as complete. If the task status changes, click " Mark as Undone" to revert it to incomplete.
 
  4. Delete a Task: If a task is no longer relevant, click on the "Delete" button to remove it from the list.
+
+### Walkthrough Video
+<img src="https://i.imgur.com/VfxduUR.gif" title="video Walkthrough" alt="To-do list"
